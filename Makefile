@@ -1,5 +1,5 @@
 compile :
-	javac X02.java
+	javac T06.java
 
 test :
-	java X02
+	java T06
