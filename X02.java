@@ -1,4 +1,4 @@
-// 12S24029 - Aditya Philip Jona Putra Silaban
+// 12S24029 - Adithya Philip Jona Putra Silaban
 // 12S24048 - Olivia Tambunan
 
 import java.util.*;
